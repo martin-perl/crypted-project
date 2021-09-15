@@ -1,1 +1,2 @@
 secrets.txt filter=git-crypt diff=git-crypt
+secrets2.txt filter=git-crypt diff=git-crypt
